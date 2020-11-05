@@ -12,28 +12,11 @@ client.package = require("./package.json");
 client.on("warn", console.warn);
 client.on("error", console.error);
 
-let memberlog = "CHANNEL_ID";
-
-client.on("guildMemberAdd", member => {
-  if (member.guild.id !== "764313658376978492") return;
-  
-  client.channels.cache.get(memberlog).send(`<:Left_Arrow:766876946143117323> **<@!${member.user.id}>** has joined the party !`);
-})
-
 client.on('message', async message => {
     if (message.author.bot) return;
 
     if(message.content.startsWith(`<@${client.user.id}>`)){
-        return message.channel.sendI(`Hey ${message.author}, my prefix is `/``)
-    }
-
-    if (message.channel.id === "766310415533473842") {
-
-    let content = message.content;
-
-    ai.getReply(content).then(r => message.channel.send(r)); 
-    } else {
-        return;
+        return message.channel.sendI(`Hey ${message.author}, my prefix is ${config.prefix}`)
     }
 });
 client.login(config.token).catch(console.error);

@@ -27,7 +27,7 @@ exports.run = async (client, message, args) => {
       .setImage(allowed[randomnumber].data.url)
       .setDescription("**-----------------------------------**")
       .addField("Dog provided by", `https://reddit.com/r/${dog}`)
-      .addField("Upvotes and Comments", `<:upvote:744158383631892580> **${allowed[randomnumber].data.ups}** | <:comment:744158388337901578> **${allowed[randomnumber].data.num_comments}**`)
+      .addField("Upvotes and Comments", `Upvote **${allowed[randomnumber].data.ups}** | Comment **${allowed[randomnumber].data.num_comments}**`)
       .setColor("RANDOM")
       .setTimestamp()
       .setFooter(`Requested by ${message.author.tag}`, message.author.displayAvatarURL())
