@@ -53,7 +53,7 @@ exports.help = {
   name: "corona",
   description: "Corona Virus informaton",
   usage: "corona [country]",
-  example: "corona Cambodia"
+  example: "corona Indonesia"
 }
 
 exports.conf = {

@@ -22,7 +22,7 @@ exports.help = {
     name: "howgay",
     description: "Are you a gay?",
     usage: "howgay [@user]",
-    example: "howgay @Virakie#5424"
+    example: "howgay <@529493423556919296>"
   }
   
   exports.conf = {

@@ -84,7 +84,7 @@ exports.help = {
   name: "whois",
   description: "get info about a user",
   usage: "whois [@user]",
-  example: "user @Virak#5424"
+  example: "user <@529493423556919296>"
 }
 
 exports.conf = {

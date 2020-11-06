@@ -25,7 +25,7 @@ exports.help = {
   name: "hug",
   description: "hug someone.",
   usage: ["hug", "hug <@user>"],
-  example: ["hug", "hug @Virakie#5424"]
+  example: ["hug", "hug <@529493423556919296>"]
 }
 
 exports.conf = {

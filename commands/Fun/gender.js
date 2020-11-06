@@ -22,7 +22,7 @@ exports.help = {
     name: "gender",
     description: "Checkmate other people gender",
     usage: "gender [@user]",
-    example: "gender @Virakie#5424"
+    example: "gender <@529493423556919296>"
   }
   
 exports.conf = {

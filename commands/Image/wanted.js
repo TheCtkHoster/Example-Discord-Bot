@@ -12,7 +12,7 @@ exports.help = {
     name: "wanted",
     description: "Search him and get the money",
     usage: ["wanted", "wanted <@user>"],
-    example: ["wanted", "wanted @Virakie#5424"]
+    example: ["wanted", "wanted <@529493423556919296>"]
   }
   
   exports.conf = {

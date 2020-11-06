@@ -38,7 +38,7 @@ exports.help = {
   name: "anime",
   description: "Show anime information.",
   usage: ["anime <title>"],
-  example: ["anime <Fairy Tail>"]
+  example: ["anime Fairy Tail"]
 }
 
 exports.conf = {

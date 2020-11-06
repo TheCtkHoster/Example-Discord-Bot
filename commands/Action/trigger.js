@@ -14,7 +14,7 @@ exports.help = {
     name: "trigger",
     description: "trigger someone.",
     usage: ["trigger", "trigger <@user>"],
-    example: ["trigger", "trigger @Virakie#5424"]
+    example: ["trigger", "trigger <@529493423556919296>"]
   }
   
   exports.conf = {

@@ -22,7 +22,7 @@ exports.help = {
     name: "instrument",
     description: "Generate some instrument",
     usage: "instrument [@user]",
-    example: "instrument @Virakie#5424"
+    example: "instrument <@529493423556919296>"
   }
   
   exports.conf = {

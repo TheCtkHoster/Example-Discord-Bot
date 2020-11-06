@@ -48,7 +48,7 @@ exports.help = {
     name: "hackban",
     description: "Ban raider or someone outside of the server",
     usage: ["hackban <id>"],
-    example: ["hackban <1234567890>"]
+    example: ["hackban 529493423556919296"]
   }
   
   exports.conf = {

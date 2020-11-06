@@ -12,7 +12,7 @@ exports.help = {
     name: "delete",
     description: "delete someone.",
     usage: ["delete", "delete <@user>"],
-    example: ["delete", "delete @Virakie#5424"]
+    example: ["delete", "delete <@529493423556919296>"]
   }
   
   exports.conf = {

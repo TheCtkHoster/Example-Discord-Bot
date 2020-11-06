@@ -25,7 +25,7 @@ exports.help = {
   name: "slap",
   description: "slap someone.",
   usage: ["slap", "slap <@user>"],
-  example: ["slap", "slap @Virakie#5424"]
+  example: ["slap", "slap <@529493423556919296>"]
 }
 
 exports.conf = {

@@ -25,7 +25,7 @@ exports.help = {
   name: "feed",
   description: "Feed someone.",
   usage: ["feed", "feed <@user>"],
-  example: ["feed", "feed @Virakie#5424"]
+  example: ["feed", "feed <@529493423556919296>"]
 }
 
 exports.conf = {

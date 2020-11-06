@@ -22,7 +22,7 @@ exports.help = {
     name: "rate",
     description: "Rate yourself or someone",
     usage: "rate [@user]",
-    example: "rate @Virakie#5424"
+    example: "rate <@529493423556919296>"
   }
   
   exports.conf = {

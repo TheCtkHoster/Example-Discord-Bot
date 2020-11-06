@@ -22,7 +22,7 @@ exports.help = {
     name: "unlucky",
     description: "Are you unlucky today?",
     usage: "unlucky [@user]",
-    example: "unlucky @Virakie#5424"
+    example: "unlucky <@529493423556919296>"
   }
   
   exports.conf = {

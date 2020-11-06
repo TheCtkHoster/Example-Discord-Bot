@@ -48,7 +48,7 @@ exports.help = {
     name: "spotify",
     description: "Show a Listening Spotify user status.",
     usage: "spotify [@user]",
-    example: "spotify @Virakie#5424"
+    example: "spotify <@529493423556919296>"
   }
   
   exports.conf = {
