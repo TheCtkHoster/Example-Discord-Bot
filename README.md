@@ -7,7 +7,7 @@ If you have any problem with the code, just contact me!
 
 My discord name GreeB#6328
 
-Also support me with following my github and give 1 star for this repostiory!
+Also support me with following my github and give 1 star for this repository!
 
 Note:
 - You need to add your bot token at config.json
