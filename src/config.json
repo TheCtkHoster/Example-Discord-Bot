@@ -1,6 +1,6 @@
 {
     "token": "YOUR_BOT_TOKEN",
     "prefix": "YOUR_BOT_PREFIX",
-    "owners": "529493423556919296",
+    "owners": "YOUR_USER_ID",
     "google": "Get it on https://console.developers.google.com/"
 }
