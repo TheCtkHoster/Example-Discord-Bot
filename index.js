@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const config = require("./config.json")
 const example = require("./handler/ClientBuilder.js");
-const client = new blobcord();
+const client = new example();
 const alexa = require('alexa-bot-api');
 let ai = new alexa("aw2plm");
 
