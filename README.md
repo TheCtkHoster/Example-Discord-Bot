@@ -13,5 +13,6 @@ Note:
 - You need to add your bot token at config.json
 - You need to add you bot prefix at config.json
 - You need to add your google api key at config.json
+- You need to add your user id at config.json
 
 you can get google api key here https://console.developers.google.com/
