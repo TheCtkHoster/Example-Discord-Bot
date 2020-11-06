@@ -1,7 +1,7 @@
 {
-  "name": "blobcord",
+  "name": "Example",
   "version": "1.0.0",
-  "description": "King of the quotes in China",
+  "description": "Example Bot",
   "main": "index.js",
   "dependencies": {
     "alexa-bot-api": "^0.1.4",
@@ -34,6 +34,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Virak",
-  "license": "MIT"
+  "author": "Idk"
 }
