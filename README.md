@@ -5,7 +5,7 @@ You can download this src (Source Code) for free!
 
 If you have any problem with the code, just contact me!
 
-My discord name Greblue#6328
+My discord name is GreblueLolNoob#7865
 
 Also support me with following my github and give 1 star for this repository!
 
